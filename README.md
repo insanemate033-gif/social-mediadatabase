@@ -10,7 +10,7 @@
 </ul>
 
 # Components
-* [Schema]([https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/schema.sql](https://github.com/insanemate033-gif/social-mediadatabase/blob/main/ER%20Diagram.png))
+* [Schema](https://github.com/insanemate033-gif/social-mediadatabase/blob/main/ER%20Diagram.png)
 * [Database](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/table_database.sql)
 * [ER Diagram](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/ER%20Diagram.png)
 * [Sample Queries](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/queries.sql)
