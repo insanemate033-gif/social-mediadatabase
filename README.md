@@ -1,34 +1,16 @@
-#### Social Media Database Project
+<h1 align="center">Social Media Database Project</h1>
 
-### About❓
+# About❓
+<ul>
+<li>Through this project  we are creating a basic structure of social media database which could easily be connected to frontend interface.  </li>
+<li>Here we are managing the data of multiple users, their followers  , interests and public activity on the social media platform which includes postlikes ,comments , commentlikes , hashtag followed ,bookmarks and many more... </li>
+<li>Through our SQL query we have shown a clear cut description of connection and inter relation between different activities on social media. </li>
+<li>Here we have  tried to fetch and store the  data in its true storage form into this database like (img/videos in url) </li>
+<li>With our true efforts and research  we have tried to give a simple and more exact view of a basic social interconnecting site.</li>
+</ul>
 
-* Through this project we are creating a basic structure of social media database which could easily be connected to frontend interface.
-* Here we are managing the data of multiple users, their followers , interests and public activity on the social media platform which includes postlikes 
- ,comments , commentlikes , hashtag followed ,bookmarks and many more...
-* Through our SQL query we have shown a clear cut description of connection and inter relation between different activities on social media.
-* Here we have tried to fetch and store the data in its true storage form into this database like (img/videos in url)
-* With our true efforts and research we have tried to give a simple and more exact view of a basic social interconnecting site.
-
-### Components 🧩
-
-## Database Structure
-- **ER Diagram.png**  
-  Entity-Relationship diagram visualizing table relationships and database architecture.
-  ![ER Diagram](ER%20Diagram.png)
-
-## SQL Files
-- **schema.sql**  
-  Contains table definitions, constraints, and database schema setup.
-
-- **queries.sql**  
-  Pre-written SQL queries for common operations (e.g., fetching user activity, post analytics).
-
-- **table_database.sql**  
-  Full SQL dump of database structure with sample data (for quick replication).
-
-## Project Structure
-└── SocialMediaDB/
-    ├── ER Diagram.png
-    ├── schema.sql           # Database schema definition
-    ├── queries.sql          # Example SQL queries
-    └── table_database.sql   # Complete database dump
+# Components
+* [Schema](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/schema.sql)
+* [Database](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/table_database.sql)
+* [ER Diagram](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/ER%20Diagram.png)
+* [Sample Queries](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/queries.sql)
