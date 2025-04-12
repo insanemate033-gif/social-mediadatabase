@@ -16,7 +16,7 @@
   Entity-Relationship diagram visualizing table relationships and database architecture.
   ![ER Diagram](ER%20Diagram.png)
 
-### SQL Files
+## SQL Files
 - **schema.sql**  
   Contains table definitions, constraints, and database schema setup.
 
